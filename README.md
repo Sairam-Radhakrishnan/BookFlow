@@ -1,4 +1,5 @@
-![BookFlow](https://github.com/Sairam-Radhakrishnan/BookFlow/assets/156107694/942fd022-0f7d-4e3d-8e76-13a16ccdc8ed)
+![By Sairam R](https://github.com/Sairam-Radhakrishnan/BookFlow/assets/156107694/ad16cbd3-d9de-498d-a5ae-0eeab3c56115)
+
 BookFlow: A Library Management System 
 
 BookFlow is an innovative library management system designed to streamline the borrowing and return process for both students and teachers. With a user-friendly interface, BookFlow offers a seamless experience for managing and accessing a wide range of library resources.
@@ -19,3 +20,8 @@ User Authentication: A secure authentication system that protects user data and 
 
 Whether you’re a student in search of the next great novel or a teacher looking for reference materials, BookFlow makes library management a breeze. Dive into the world of books with BookFlow – where every book is just a click away!# BookFlow
 BookFlow: Streamline Your Library Experience  BookFlow is the ultimate library management system for students and teachers. Effortlessly borrow, return, and explore a vibrant book catalog. Powered by Python and Matplotlib, and with secure JSON data storage, BookFlow offers a smart, secure, and user-friendly way to manage your reading journey.
+
+
+
+
+![BookFlow](https://github.com/Sairam-Radhakrishnan/BookFlow/assets/156107694/942fd022-0f7d-4e3d-8e76-13a16ccdc8ed)
