@@ -1,6 +1,5 @@
-![By Sairam R](https://github.com/Sairam-Radhakrishnan/BookFlow/assets/156107694/ad16cbd3-d9de-498d-a5ae-0eeab3c56115)
+![Informatics Practices Flowchart of![lo](https://github.com/Sairam-Radhakrishnan/BookFlow/assets/156107694/6c537ffb-5dfb-4b0d-823e-109b4b749677)
 
-BookFlow: A Library Management System 
 
 BookFlow is an innovative library management system designed to streamline the borrowing and return process for both students and teachers. With a user-friendly interface, BookFlow offers a seamless experience for managing and accessing a wide range of library resources.
 
